@@ -12,7 +12,8 @@ A data exploration proejct with Indian recipes using a curated dataset of 255 In
 This is a beginner friendly project aimed at building data-science fundamentals while staying tasty
 
 ## Dataset
-The dataset includes columns like 
+The dataset has been sourced from https://www.kaggle.com/code/reddybharat/indian-food-eda/notebook and has been cleaned up a bit for analysis.
+It includes columns like 
 1. Recipe Name
 2. Ingredients
 3. Prep Time
